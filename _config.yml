@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: "MML Hack-a-thon のへや"
+name: "MMLHACK MML Hack-a-thon 公式ホームページ"
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: "Music Macro Language (通称MML)を使ったチップチューンサウンドのサークル&勉強会"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
